@@ -14,6 +14,7 @@
 		8D13CE3F1E5A22C3001C2D27 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8D13CE3D1E5A22C3001C2D27 /* LaunchScreen.storyboard */; };
 		8D13CE4A1E5A22C4001C2D27 /* EmilyPracticeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D13CE491E5A22C4001C2D27 /* EmilyPracticeTests.swift */; };
 		8D13CE551E5A22C4001C2D27 /* EmilyPracticeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D13CE541E5A22C4001C2D27 /* EmilyPracticeUITests.swift */; };
+		8D13CE631E5A24E6001C2D27 /* Google-Cardboard.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8D13CE621E5A24E6001C2D27 /* Google-Cardboard.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		8D13CE501E5A22C4001C2D27 /* EmilyPracticeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EmilyPracticeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8D13CE541E5A22C4001C2D27 /* EmilyPracticeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmilyPracticeUITests.swift; sourceTree = "<group>"; };
 		8D13CE561E5A22C4001C2D27 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8D13CE621E5A24E6001C2D27 /* Google-Cardboard.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Google-Cardboard.jpg"; path = "../../Google-Cardboard.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				8D13CE361E5A22C3001C2D27 /* ViewController.swift */,
 				8D13CE381E5A22C3001C2D27 /* Main.storyboard */,
 				8D13CE3B1E5A22C3001C2D27 /* Assets.xcassets */,
+				8D13CE621E5A24E6001C2D27 /* Google-Cardboard.jpg */,
 				8D13CE3D1E5A22C3001C2D27 /* LaunchScreen.storyboard */,
 				8D13CE401E5A22C3001C2D27 /* Info.plist */,
 			);
@@ -232,6 +235,7 @@
 				8D13CE3F1E5A22C3001C2D27 /* LaunchScreen.storyboard in Resources */,
 				8D13CE3C1E5A22C3001C2D27 /* Assets.xcassets in Resources */,
 				8D13CE3A1E5A22C3001C2D27 /* Main.storyboard in Resources */,
+				8D13CE631E5A24E6001C2D27 /* Google-Cardboard.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
